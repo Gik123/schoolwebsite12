@@ -1,0 +1,31 @@
+#video{
+    height: 100%;
+    width: 500px;
+    border: none;
+    
+}
+.travel_mainDiv{
+    border: 1px solid lightgrey;
+}
+.travel_mainDiv img{
+width: 100%;
+}
+.travel_mainDiv h5{
+    margin:20px;
+}
+.movie_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.movie_head i{
+    float: right;
+}
+.achievement_text span{
+    color: orange;
+}
+#pancake{
+    width: 480px;
+    height: 360px;
+}
